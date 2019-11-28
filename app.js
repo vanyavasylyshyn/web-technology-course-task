@@ -1,10 +1,17 @@
 var createError = require('http-errors');
 var express = require('express');
 var logger = require('morgan');
+const mongoose = require('mongoose');
+const {
+  setUpConnection
+} = require('./utils/db');
 
 var indexRouter = require('./routes/index');
 
 var app = express();
+
+mongoose.Promise = require('bluebird');
+setUpConnection();
 
 app.use(logger('dev'));
 app.use(express.json());
