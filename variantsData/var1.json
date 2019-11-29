@@ -1,0 +1,111 @@
+{
+  "table": [{
+      "id": 1,
+      "regionName": "Івано-Франківська",
+      "settlementName": "Пiдкамiнь",
+      "geomorphologicBinding": "Заплава потiчка - притоки р. Свiрж",
+      "date": "1997-02-22",
+      "carbonDioxideContent": 0.033,
+      "COcontent": 3,
+      "SO2content": 0.05,
+      "gasolineContent": 1.5,
+      "HClcontent": 0.2
+    },
+    {
+      "id": 2,
+      "regionName": "Івано-Франківська",
+      "settlementName": "Рогатин",
+      "geomorphologicBinding": "Заплава р. Гнила Липа",
+      "date": "1997-02-22",
+      "carbonDioxideContent": 0.013,
+      "COcontent": 1.2,
+      "SO2content": 0.04,
+      "gasolineContent": 0.01,
+      "HClcontent": 0
+    },
+    {
+      "id": 3,
+      "regionName": "Івано-Франківська",
+      "settlementName": "Добринiв",
+      "geomorphologicBinding": "Берег р.Студений Потiк",
+      "date": "1997-02-22",
+      "carbonDioxideContent": 0.071,
+      "COcontent": 1.3,
+      "SO2content": 0.04,
+      "gasolineContent": 0.09,
+      "HClcontent": 0.03
+    },
+    {
+      "id": 4,
+      "regionName": "Чернівецька",
+      "settlementName": "Путила",
+      "geomorphologicBinding": "Вододiл",
+      "date": "1997-02-22",
+      "carbonDioxideContent": 0.031,
+      "COcontent": 0.2,
+      "SO2content": 0.01,
+      "gasolineContent": 0.01,
+      "HClcontent": 0
+    },
+    {
+      "id": 5,
+      "regionName": "Івано-Франківська",
+      "settlementName": "Пiдкамiнь",
+      "geomorphologicBinding": "Заплава потiчка - притоки р. Свiрж",
+      "date": "1997-02-23",
+      "carbonDioxideContent": 0.013,
+      "COcontent": 1.2,
+      "SO2content": 0.05,
+      "gasolineContent": 0.02,
+      "HClcontent": 0
+    },
+    {
+      "id": 6,
+      "regionName": "Івано-Франківська",
+      "settlementName": "Рогатин",
+      "geomorphologicBinding": "Заплава р. Гнила Липа",
+      "date": "1997-02-23",
+      "carbonDioxideContent": 0.031,
+      "COcontent": 1,
+      "SO2content": 0,
+      "gasolineContent": 0.01,
+      "HClcontent": 0.01
+    },
+    {
+      "id": 7,
+      "regionName": "Вінницька",
+      "settlementName": "Вінниця",
+      "geomorphologicBinding": "Заплава р. Південний Буг",
+      "date": "1998-03-24",
+      "carbonDioxideContent": 0.033,
+      "COcontent": 0.03,
+      "SO2content": 0.15,
+      "gasolineContent": 1.2,
+      "HClcontent": 0.03
+    },
+    {
+      "id": 8,
+      "regionName": "Львівська",
+      "settlementName": "Стрий",
+      "geomorphologicBinding": "II надзаплавна тераса р. Стрий",
+      "date": "1998-05-24",
+      "carbonDioxideContent": 0.018,
+      "COcontent": 1.3,
+      "SO2content": 0.2,
+      "gasolineContent": 0.02,
+      "HClcontent": 0
+    },
+    {
+      "id": 9,
+      "regionName": "Чернівецька",
+      "settlementName": "Кіцмань",
+      "geomorphologicBinding": "I надзаплавна тераса р.Днiстер ",
+      "date": "1999-07-24",
+      "carbonDioxideContent": 0.017,
+      "COcontent": 1.2,
+      "SO2content": 0.1,
+      "gasolineContent": 0.01,
+      "HClcontent": 0
+    }
+  ]
+}

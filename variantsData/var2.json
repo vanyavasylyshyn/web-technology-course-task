@@ -1,0 +1,153 @@
+{
+  "table": [{
+      "id": 1,
+      "productName": "Хліб пшеничний вищого гатунку",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-06-12",
+      "outlet": "магазин №12",
+      "amount": 200,
+      "priceForOne": 1.25,
+      "shippingCharge": true
+    },
+    {
+      "id": 2,
+      "productName": "Хліб житній",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-09-03",
+      "outlet": "магазин №19",
+      "amount": 400,
+      "priceForOne": 1.30,
+      "shippingCharge": true
+    },
+    {
+      "id": 3,
+      "productName": "Хліб пшеничний вищого гатунку",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-05-04",
+      "outlet": "Кафе “Астра”",
+      "amount": 890,
+      "priceForOne": 1.25,
+      "shippingCharge": false
+    },
+    {
+      "id": 4,
+      "productName": "Хліб житній",
+      "materialSupplier": "Одеський мукомольний комбінат",
+      "dateOfProduction": "2001-07-23",
+      "outlet": "Бар “Веста”",
+      "amount": 450,
+      "priceForOne": 1.20,
+      "shippingCharge": false
+    },
+    {
+      "id": 5,
+      "productName": "Хліб житній з тміном",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-12-18",
+      "outlet": "магазин №21",
+      "amount": 2000,
+      "priceForOne": 1.30,
+      "shippingCharge": true
+    },
+    {
+      "id": 6,
+      "productName": "Хліб житній",
+      "materialSupplier": "Одеський мукомольний комбінат",
+      "dateOfProduction": "2001-04-19",
+      "outlet": "Кафе “Астра”",
+      "amount": 370,
+      "priceForOne": 1.20,
+      "shippingCharge": false
+    },
+    {
+      "id": 7,
+      "productName": "Хліб пшеничний вищого гатунку",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-01-26",
+      "outlet": "Бар “Веста”",
+      "amount": 450,
+      "priceForOne": 1.25,
+      "shippingCharge": false
+    },
+    {
+      "id": 8,
+      "productName": "Хліб пшеничний вищого гатунку",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-05-01",
+      "outlet": "магазин №12",
+      "amount": 600,
+      "priceForOne": 1.25,
+      "shippingCharge": true
+    },
+    {
+      "id": 9,
+      "productName": "Хліб пшеничний вищого гатунку",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2001-03-04",
+      "outlet": "магазин №12",
+      "amount": 1200,
+      "priceForOne": 1.25,
+      "shippingCharge": true
+    },
+    {
+      "id": 10,
+      "productName": "Хліб житній з тміном",
+      "materialSupplier": "Угринівська макаронна фабрика",
+      "dateOfProduction": "2001-10-15",
+      "outlet": "Кафе “Астра”",
+      "amount": 1250,
+      "priceForOne": 1.10,
+      "shippingCharge": false
+    },
+    {
+      "id": 11,
+      "productName": "Булка здобна",
+      "materialSupplier": "Угринівська макаронна фабрика",
+      "dateOfProduction": "2001-11-18",
+      "outlet": "магазин №19",
+      "amount": 2020,
+      "priceForOne": 0.40,
+      "shippingCharge": true
+    },
+    {
+      "id": 12,
+      "productName": "Хліб житній з тміном",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2000-02-04",
+      "outlet": "магазин №21",
+      "amount": 890,
+      "priceForOne": 1.30,
+      "shippingCharge": true
+    },
+    {
+      "id": 13,
+      "productName": "Булка здобна",
+      "materialSupplier": "Угринівська макаронна фабрика",
+      "dateOfProduction": "2000-03-08",
+      "outlet": "магазин №21",
+      "amount": 540,
+      "priceForOne": 0.40,
+      "shippingCharge": true
+    },
+    {
+      "id": 14,
+      "productName": "Хліб дієтичний",
+      "materialSupplier": "Центральна товарна база",
+      "dateOfProduction": "2000-10-10",
+      "outlet": "магазин №21",
+      "amount": 320,
+      "priceForOne": 0.95,
+      "shippingCharge": true
+    },
+    {
+      "id": 15,
+      "productName": "Хліб житній з тміном",
+      "materialSupplier": "Мілієвський мукомольний комбінат",
+      "dateOfProduction": "2000-09-11",
+      "outlet": "магазин №12",
+      "amount": 25,
+      "priceForOne": 1.30,
+      "shippingCharge": true
+    }
+  ]
+}
